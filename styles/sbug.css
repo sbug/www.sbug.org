@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'dos437-webfont';
+	src: url('/fonts/dos437-webfont.eot');
+	src: url('/fonts/dos437-webfont.woff') format('woff'),
+		 url('/fonts/dos437-webfont.ttf') format('truetype'),
+		 url('/fonts/dos437-webfont.svg#webfontpVS4iJcr') format('svg');
+	font-weight: bold;
+	font-style: normal
+}
+
+body {
+	background: #000;
+	color: #aaa;
+	font-family: 'dos437-webfont';
+	font-smooth: never;
+	font-size: 8px;
+	letter-spacing: 2px;
+	line-height: 16px;
+	margin: 32px;
+	max-width: 800px;
+	-webkit-font-smoothing : none
+ }
+
+a {
+	color: #55f
+}
+
+p {
+	margin: 16px 0
+}
+
+.yellow {
+	color: #ff0
+}
