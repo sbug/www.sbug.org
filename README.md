@@ -1,3 +1,3 @@
 # Subcarpathian BSD User Group
 
-This repository is hosting SBUG pages : http://www.sbug.org
+This repository is hosting SBUG pages: https://www.sbug.org
